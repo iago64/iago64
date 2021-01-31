@@ -1,16 +1,20 @@
-### Hi there 👋
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<!--
-**iago64/iago64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi 👋, I'm Damian 
+## Full Stack Developer :computer: & Gamer :video_game:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const iago64 = {
+    askMeAbout: ["web & app dev", "cloud solutions", "gaming"],
+    technologies:{
+        backEnd: ["C#", "NodeJS", "Java"],
+        fronEnd: ["React", "Angular", "VueJs"],
+        database: ["SQL Server", "Oracle", "mongo", "mySql"],
+        devOps: ["Openshift", , "Kubernetes", "Jenkins"]
+    },
+    architecture: ["microservices", "Single page applications", "solution design"],
+}
+```
