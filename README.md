@@ -10,10 +10,10 @@
 const iago64 = {
     askMeAbout: ["web & app dev", "cloud solutions", "gaming"],
     technologies:{
-        backEnd: ["C#", "NodeJS", "Java"],
-        fronEnd: ["React", "Angular", "VueJs"],
+        backend: ["Java", "C#", "NodeJS"],
+        fronend: ["React", "Angular", "VueJs"],
         database: ["SQL Server", "Oracle", "mongo", "mySql"],
-        devOps: ["Openshift", , "Kubernetes", "Jenkins"]
+        devops: ["Openshift", , "Kubernetes", "Jenkins"]
     },
     architecture: ["microservices", "Single page applications", "solution design"],
 }
