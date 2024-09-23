@@ -2,15 +2,15 @@
 
 #### About Me
 - Information Systems Engineer w/10+ years of experience
-- Currently working as Lead Application Modernization Architect / Cloud Solutions Architect
+- Currently working as Lead Application Modernization Architect / Cloud Solutions Architect @[Exisoft](https://exisoft.com.ar/)
 - Cloud Advocate, driving scalable and resilient application architectures
 - Kubernetes and OpenShift Advocate, enabling robust and flexible enterprise deployments
 
 
 <details open> 
   <summary><h2>🧑‍💻 GitHub Stats 🧑‍💻</h2></summary>
-    <img src="https://github-readme-stats.vercel.app/api?username=iago64&show_icons=true&locale=es&theme=dark#gh-dark-mode-only&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&layout=compact&height=180px" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iago64&theme=github_dark&layout=compact&height=180px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=iago64&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iago64&theme=github_dark&layout=compact&hide_border=true"/>
   
 </details>
 
