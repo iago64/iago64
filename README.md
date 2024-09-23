@@ -7,11 +7,12 @@
 - Kubernetes and OpenShift Advocate, enabling robust and flexible enterprise deployments
 
 
-<div align="center" width="640">
-    <img width="60%" src="https://github-readme-stats.vercel.app/api?username=iago64&show_icons=true&locale=es&theme=dark#gh-dark-mode-only&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&layout=compact" />
-    <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iago64&theme=github_dark&layout=compact"/>
-</div>
-
+<details open> 
+  <summary><h2>🧑‍💻 GitHub Stats 🧑‍💻</h2></summary>
+    <img src="https://github-readme-stats.vercel.app/api?username=iago64&show_icons=true&locale=es&theme=dark#gh-dark-mode-only&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&layout=compact&height=180px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iago64&theme=github_dark&layout=compact&height=180px"/>
+  
+</details>
 
 🚧 Profile Work in Progress 🚧
 
