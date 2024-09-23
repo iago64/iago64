@@ -9,7 +9,7 @@
 
 <details open> 
   <summary><h2>🧑‍💻 GitHub Stats 🧑‍💻</h2></summary>
-    <img src="https://github-readme-stats.vercel.app/api?username=iago64&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=iago64&show_icons=true&count_private=true&hide_border=true&theme=github_dark" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iago64&theme=github_dark&layout=compact&hide_border=true"/>
   
 </details>
